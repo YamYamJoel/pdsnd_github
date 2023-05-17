@@ -30,7 +30,7 @@ def get_filters():
     
 
     # get user input for month (all, january, february, ... , june)
-    month = input("\nCan you please enter a month between January and June? For all months, please type 'All' ").lower()
+    month = input("\nCan you please enter a month between January and June? For all the months, please type 'All' ").lower()
     while month in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
         print ("\nThank you for selecting your month! You have selected {}. That all looks great!".format(month))
         break
