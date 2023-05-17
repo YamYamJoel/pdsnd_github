@@ -22,7 +22,7 @@ def get_filters():
 
     city = input ("\nCan you please enter the name of your city - Chicago, New York City or Washington? ").lower()
     while city in ['chicago', 'new york city', 'washington']:
-        print("\nThank you for selecting {}, that looks great!".format(city))
+        print("\nThank you for selecting {}, that looks wonderful!".format(city))
         break
     else:
         city = input("\nSorry, I didn't quite get that! Could you please select the name of the city you want to examine - \n'Chicago', New York City' or 'Washington'. Thank you! ").lower()
