@@ -22,7 +22,7 @@ def get_filters():
 
     city = input ("\nCan you please enter the name of your city - Chicago, New York City or Washington? ").lower()
     while city in ['chicago', 'new york city', 'washington']:
-        print("\nThank you for selecting {}, that looks great!".format(city))
+        print("\nThank you for selecting {}, that looks wonderful!".format(city))
         break
     else:
         city = input("\nSorry, I didn't quite get that! Could you please select the name of the city you want to examine - \n'Chicago', New York City' or 'Washington'. Thank you! ").lower()
@@ -30,7 +30,7 @@ def get_filters():
     
 
     # get user input for month (all, january, february, ... , june)
-    month = input("\nCan you please enter a month between January and June? For all months, please type 'All' ").lower()
+    month = input("\nCan you please enter a month between January and June? For all the months, please type 'All' ").lower()
     while month in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
         print ("\nThank you for selecting your month! You have selected {}. That all looks great!".format(month))
         break
