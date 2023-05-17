@@ -17,5 +17,5 @@ It also has an option for the user to view the raw data files.
 - washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Created by Joel Danks with help from [title](https://www.udacity.com)
 
