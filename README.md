@@ -7,7 +7,9 @@ The project and README was created on 17/05/2023
 
 
 ### Description
-Describe what your project is about and what it does
+For this project, I had to use Python, along with the Numpy and Pandas modules, to examine and explore data relating to bike share data for 3 different cities across the US - Washington, New York City and Chicago. 
+Within this data, it allowed the users to input various commands, which in turn, filtered the data to whatever the user required. 
+It also has an option for the user to view the raw data files. 
 
 ### Files used
 Include the files used
