@@ -12,7 +12,9 @@ Within this data, it allowed the users to input various commands, which in turn,
 It also has an option for the user to view the raw data files. 
 
 ### Files used
-Include the files used
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
